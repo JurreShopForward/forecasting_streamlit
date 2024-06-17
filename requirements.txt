@@ -1,6 +1,6 @@
 python-dotenv == 1.0.1
 ipython == 8.24.0
-pandas == 2.2.1
+pandas == 2.1.4
 google-ads == 23.1.0
 numpy == 1.26.0
 scipy == 1.13.0
