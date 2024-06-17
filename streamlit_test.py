@@ -5,11 +5,8 @@ from io import StringIO
 from datetime import datetime, timedelta
 import pandas as pd
 import numpy as np
-pip install matplotlib
 import matplotlib.pyplot as plt
 import random
-
-
 
 def create_plot(forecast_df, forecast_df_after, forecast_df_before, company_name):
     # TODO insert company name as input variable
