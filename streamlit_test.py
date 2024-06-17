@@ -8,6 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 
+
+
 def create_plot(forecast_df, forecast_df_after, forecast_df_before, company_name):
     # TODO insert company name as input variable
 
